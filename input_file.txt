@@ -1,0 +1,10 @@
+COEFFS 2
+k0 1
+k1 1
+
+CS 3
+
+EQUATIONS 3
+-k0*c0
+k0*c0-2*k1*c1
+2*k1*c1
